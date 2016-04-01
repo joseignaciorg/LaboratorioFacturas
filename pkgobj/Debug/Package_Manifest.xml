@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="34ef6e44-173f-45bf-b0ed-71e0395b2bf0" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="LaboratorioFacturas.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="LaboratorioFacturas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9c81009fdd849189" Namespace="LaboratorioFacturas.WebPartTotalFacturas" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="LaboratorioFacturas_Feature1\Feature.xml" />
+    <FeatureManifest Location="LaboratorioFacturas_Feature2\Feature.xml" />
+    <FeatureManifest Location="LaboratorioFacturas_Feature3\Feature.xml" />
+  </FeatureManifests>
+</Solution>

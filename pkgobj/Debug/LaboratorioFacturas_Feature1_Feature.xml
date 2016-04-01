@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="b6618910-74c6-4af6-92ad-e2e528a47882" Scope="Web" Title="LaboratorioFacturas Feature1">
+  <ElementManifests>
+    <ElementManifest Location="EventoListaFacturas\Elements.xml" />
+  </ElementManifests>
+</Feature>

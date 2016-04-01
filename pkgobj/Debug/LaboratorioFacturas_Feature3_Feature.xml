@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="fcb0292d-c740-41fe-b0dd-6be69f0dcd94" ReceiverAssembly="LaboratorioFacturas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9c81009fdd849189" ReceiverClass="LaboratorioFacturas.Features.Feature3.Feature3EventReceiver" Scope="Site" Title="LaboratorioFacturas Feature3">
+  <ElementManifests>
+    <ElementManifest Location="EventoListaFacturas\Elements.xml" />
+  </ElementManifests>
+</Feature>

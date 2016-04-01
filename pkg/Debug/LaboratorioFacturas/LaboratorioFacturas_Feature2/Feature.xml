@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="959bd48d-f88f-4e9a-9e87-f2b58174adcd" Scope="Site" Title="LaboratorioFacturas Feature2">
+  <ElementManifests>
+    <ElementManifest Location="WebPartTotalFacturas\Elements.xml" />
+    <ElementFile Location="WebPartTotalFacturas\WebPartTotalFacturas.webpart" />
+  </ElementManifests>
+</Feature>

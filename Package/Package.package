@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="34ef6e44-173f-45bf-b0ed-71e0395b2bf0" solutionId="34ef6e44-173f-45bf-b0ed-71e0395b2bf0" resetWebServer="false" sharePointProductVersion="15.0" name="LaboratorioFacturas" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="a0e4bcd9-557d-4388-8a65-fbdb6cf12da2" />
+    <featureReference itemId="583f4634-8528-4476-82c2-52b060b727bb" />
+    <featureReference itemId="0294a680-6c7a-4d3b-9f33-d0cf35478c36" />
+  </features>
+</package>
